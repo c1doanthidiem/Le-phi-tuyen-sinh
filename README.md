@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>Đóng học phí Câu lạc bộ Tuổi Thơ</title> 
+<title>Cổng thanh toán Lệ phí tuyển sinh lớp 1 - Trường Tiểu học Đoàn Thị Điểm - Hà Nội</title> 
 <title>Trường Tiểu học Đoàn Thị Điểm</title>
 <style>
 :root{--primary:#0b6fb3;--muted:#6b7280;--card:#ffffff;--accent:#0b76d1;}
