@@ -260,5 +260,3 @@ el('downloadQR').addEventListener('click', ()=>{
   }
 });
 </script>
-</body>
-</html>
