@@ -192,7 +192,7 @@ function makeNote(){
   const year = el('year').value;
   const campus = el('campus').value;
   const phone = el('phone').value.trim() || "[SĐT]";
-  return `TS2026 ${campus} ${fullname} ${day}.${month}.${year} ${phone}`;
+  return `TS2026 ${fullname} ${day}.${month}.${year} ${campus} ${phone}`;
 }
 
 function buildQRUrl(amount, note){
