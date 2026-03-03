@@ -220,7 +220,7 @@ function generate(){
     return;
   }
 
-  const note = `TS2026 ${campus} ${fullname} ${day.padStart(2,'0')}.${month.padStart(2,'0')}.${year} ${phone}`;
+  const note = `TS2026 ${fullname} ${day.padStart(2,'0')}.${month.padStart(2,'0')}.${year} ${campus} ${phone}`;
   const url = buildQRUrl(amount, note);
 
   const info = `Ngân hàng: ${BANK.bankShort}
